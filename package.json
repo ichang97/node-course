@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.12"
+  },
+  "name": "node_course",
+  "version": "1.0.0",
+  "description": "eiei",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start" : "nodemon apis.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
